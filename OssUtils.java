@@ -2,7 +2,7 @@ import com.aliyun.oss.OSS;
 import com.aliyun.oss.OSSClient;
 import com.aliyun.oss.OSSClientBuilder;
 import com.aliyun.oss.model.*;
-import com.rzt.common.Result;
+import com.eternalray.common.Result;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.web.multipart.MultipartFile;
